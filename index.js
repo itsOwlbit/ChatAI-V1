@@ -1,5 +1,3 @@
-// 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
-
 // import { Configuration, OpenAIApi } from "openai";
 const { Configuration, OpenAIApi } = require("openai");
 
